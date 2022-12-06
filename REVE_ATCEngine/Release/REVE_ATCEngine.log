@@ -1,0 +1,8 @@
+﻿  Logger.cpp
+  REVE_ATCEngine.cpp
+C:\Users\REVE\Desktop\REVE_ATCEngine\REVE_ATCEngine.cpp(230,9): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 200 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  REVE_ATCEngine.vcxproj -> C:\Users\REVE\Desktop\REVE_ATCEngine\Release\ATCEngine.exe

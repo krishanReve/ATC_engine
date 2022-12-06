@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (REVE_ATCEngine.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Logger.cpp
+  REVE_ATCEngine.cpp
+C:\Users\REVE\Desktop\REVE_ATCEngine\REVE_ATCEngine.cpp(230,9): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+  Generating Code...
+  REVE_ATCEngine.vcxproj -> C:\Users\REVE\Desktop\REVE_ATCEngine\Debug\ATCEngine.exe
