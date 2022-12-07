@@ -172,7 +172,8 @@ DWORD WINAPI keepAliveThread(LPVOID data)
 	Logger::info("keep alive thread created");
 	printf("keepAliveThread Thread\n");
 
-	//DO YPUR STUFF HERE
+	Logger::info("updated for test using git clone");
+	//DO YOUR STUFF HERE
 	int count = 0;
 	while (true) {
 		if (servicestop)
