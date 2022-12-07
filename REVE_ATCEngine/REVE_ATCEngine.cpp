@@ -173,6 +173,7 @@ DWORD WINAPI keepAliveThread(LPVOID data)
 	printf("keepAliveThread Thread\n");
 
 	Logger::info("updated for test using git clone");
+	Logger::info("updated again for test using git clone");
 	//DO YOUR STUFF HERE
 	int count = 0;
 	while (true) {
